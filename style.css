@@ -98,6 +98,7 @@ body {
         border-radius: 10px;
         text-align: center;
         font-size: 30px;
+       	
 
 }
 
@@ -141,7 +142,7 @@ body {
 
 .register {
         margin: 1%;
-        width: 45%;
+        width: 48%;
         padding: 10px;
         height: 135px;
         border-radius: 10px;
