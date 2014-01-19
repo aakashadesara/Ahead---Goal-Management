@@ -1,0 +1,19 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+
+	text-align: center;
+	background-color: black;
+	color: white;
+
+}
+
+.description {
+
+	min-width: 100%;
+	min-height: 20%;
+
+}
