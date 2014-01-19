@@ -8,12 +8,37 @@
 	text-align: center;
 	background-color: black;
 	color: white;
+	padding: 1%;
 
 }
 
 .description {
 
-	min-width: 100%;
+	margin: 1%;
+	min-width: 98%;
 	min-height: 20%;
+	border-radius: 10px;
+	font-size: 20px;
+	padding: 1%;
 
+}
+
+.date {
+
+	margin: 1%;
+	min-width: 98%;
+	min-height: 6%;
+	border-radius: 10px;
+	font-size: 20px;
+	padding: 1%;
+}
+
+.frequency {
+
+	margin: 1%;
+	min-width: 98%;
+	min-height: 6%;
+	border-radius: 10px;
+	font-size: 20px;
+	padding: 1%;
 }
