@@ -7,6 +7,7 @@ Set goals with date/description then set how frequently you would like to be rem
 Purpose: Set goals easily. Get reminders via text and email. Complete goals and move ahead.
 
 Lang's used: SQL, PHP, CSS, HTML, Javscript
+====
 
 Ayush Mehra : Backend Dev
 Aakash Adesara: Frontend Dev
