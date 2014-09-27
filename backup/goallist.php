@@ -1,6 +1,6 @@
 <?php
 
-// Database login info
+// Database login info. Make sure to use a php compatible server!
 	$dbusername = "darapper_ahead";
 	$password = "aacodeday2014";
 	$hostname = "localhost"; 
